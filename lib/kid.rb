@@ -11,5 +11,3 @@ class Kid
   end
 end
 
-
-puts Dance::KickJumping
