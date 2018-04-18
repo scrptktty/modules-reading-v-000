@@ -16,4 +16,3 @@ module Dance
   end
 end
 
-Dance::KickJumping = 123
