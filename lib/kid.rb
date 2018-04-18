@@ -10,6 +10,3 @@ class Kid
     @name = name
   end
 end
-
-
-puts KickJumping
