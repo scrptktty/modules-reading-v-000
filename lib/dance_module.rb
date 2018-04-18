@@ -1,4 +1,6 @@
 module Dance
+  KickJumping = 123
+  
   def twirl
   "I'm twirling!"
   end
@@ -16,4 +18,4 @@ module Dance
   end
 end
 
-KickJumping = 123
+
