@@ -10,3 +10,6 @@ class Kid
     @name = name
   end
 end
+
+
+puts Dance::KickJumping
